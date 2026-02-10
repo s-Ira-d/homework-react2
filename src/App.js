@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <Greeting name="Іра" />
-      <Message text="ласкаво просимо до мого React-додатку" />
+      <Message text="ласкаво просимо" />
       <Button onClick={handleClick} />
     </div>
   );

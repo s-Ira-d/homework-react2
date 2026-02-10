@@ -1,5 +1,5 @@
 function Button({ onClick }) {
-  return <button onClick={onClick}>Натисни мене</button>;
+  return <button onClick={onClick}>натисни мене</button>;
 }
 
 export default Button;
